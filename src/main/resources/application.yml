@@ -1,0 +1,23 @@
+server:
+  port: 8080
+
+logging:
+  level:
+    com.example.flux: debug
+
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+
+  devtools:
+    livereload:
+      enabled: true
+    restart:
+      enabled: true
+
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: mydb
