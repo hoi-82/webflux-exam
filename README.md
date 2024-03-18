@@ -5,4 +5,4 @@
 - MongoDB
 - Spring WebFlux
 ---
-- MongoDB Tailable Cursor를 활용한 데이터 스트리밍 : 🔗 https://www.notion.so/MongoDB-Tailable-Cursor-392ff3ae95564df7beed6bd0425ab9f4
+🔗 [MongoDB Tailable Cursor를 활용한 데이터 스트리밍](https://ginger-twister-537.notion.site/MongoDB-Tailable-Cursor-392ff3ae95564df7beed6bd0425ab9f4)
