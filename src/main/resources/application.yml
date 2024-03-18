@@ -20,4 +20,10 @@ spring:
     mongodb:
       host: localhost
       port: 27017
-      database: mydb
+      database: chatting
+      username: devhoi
+      password: 1234@
+      authentication-database: admin
+
+  jackson:
+    property-naming-strategy: SNAKE_CASE
